@@ -1,0 +1,22 @@
+body,
+.main-content-wrapper,
+.row {
+    margin: 0 auto;
+}
+
+.main-content-wrapper {
+    padding: 40px;
+}
+
+.col {
+    max-width: 400px;
+}
+
+.nav-link {
+    color: black;
+    font-style: bold;
+}
+
+.action-links {
+    padding-right: 15px;
+}
